@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlFlow3", "ControlFlow3\ControlFlow3.csproj", "{9FEA3DE3-8053-4EA0-9808-9F497BA3FC13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FEA3DE3-8053-4EA0-9808-9F497BA3FC13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FEA3DE3-8053-4EA0-9808-9F497BA3FC13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FEA3DE3-8053-4EA0-9808-9F497BA3FC13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FEA3DE3-8053-4EA0-9808-9F497BA3FC13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {036885D1-38B0-44CC-86A0-FEA21D724D1C}
+	EndGlobalSection
+EndGlobal
